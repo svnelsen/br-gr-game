@@ -1,0 +1,4 @@
+*.zip
+*.log
+.netlify/
+node_modules/
